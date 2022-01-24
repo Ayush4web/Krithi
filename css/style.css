@@ -207,7 +207,7 @@ a,
 	z-index: -1;
 }
 .bg-position {
-	background-image: url(../https://via.placeholder.com/1110x1024);
+	background-image: url(../images/resources/img2.jpg);
 	background-size: inherit;
 	position: absolute;
 	top: 0;
@@ -222,7 +222,7 @@ a,
 }
 .right-position {
 	background-position: right;
-	background-image: url(../https://via.placeholder.com/1107x1064);
+	background-image: url(../images/resources/img.png);
 }
 .bg3 {
 	background: url(../images/bg3.png) #121318;
@@ -419,7 +419,7 @@ header .menu-btn {
 /* ================ MAIN BANNER ================ */
 
 .main-banner {
-	background: url(../https://via.placeholder.com/1087x1024) #121318;
+	background: url(..//images/resources/banner-img1.jpg) #121318;
 	background-repeat: no-repeat;
 	background-position: top right;
 }
